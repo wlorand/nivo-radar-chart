@@ -1,0 +1,14 @@
+/*
+ * File: asset-radar-chart.css
+ * Desc: styles for the AssetRadarChart component  
+ */
+
+.radar-chart-container {
+  height: 500px;
+}
+
+.chart-title {
+  display: flex;
+  justify-content: center;
+  padding-top: 5px;
+}
